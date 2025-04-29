@@ -1,5 +1,5 @@
 {
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"game": "Super Bear Adventure",
 	"objectives": [
 		{
@@ -15,11 +15,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"turtletown"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏕️",
+			"emoji": "🏕️",
+			"text_color": "#008000",
 			"idx": 1
 		},
 		{
@@ -35,11 +37,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"snowvalley"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏔️",
+			"emoji": "🏔️",
+			"text_color": "#000080",
 			"idx": 2
 		},
 		{
@@ -55,11 +59,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏝️",
+			"emoji": "🏝️",
+			"text_color": "#808000",
 			"idx": 3
 		},
 		{
@@ -75,11 +81,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏠",
+			"emoji": "🏠",
+			"text_color": "#800000",
 			"idx": 4
 		},
 		{
@@ -88,10 +96,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"turtletown"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 5
 		},
@@ -101,10 +110,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"snowvalley"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 6
 		},
@@ -114,10 +124,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 7
 		},
@@ -127,10 +138,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 8
 		},
@@ -140,10 +152,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"turtletown"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 9
 		},
@@ -153,10 +166,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"snowvalley"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 10
 		},
@@ -166,10 +180,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 11
 		},
@@ -179,10 +194,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 12
 		},
@@ -192,10 +208,11 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"thehive"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐻",
 			"idx": 13
 		},
@@ -208,8 +225,7 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🧱",
+			"emoji": "🚇",
 			"idx": 14
 		},
 		{
@@ -221,7 +237,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🏗️",
 			"idx": 15
 		},
@@ -234,7 +249,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐰",
 			"idx": 16
 		},
@@ -244,11 +258,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 17
 		},
 		{
@@ -257,11 +272,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 18
 		},
 		{
@@ -270,11 +286,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 19
 		},
 		{
@@ -283,11 +300,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 20
 		},
 		{
@@ -296,11 +314,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 21
 		},
 		{
@@ -309,11 +328,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 22
 		},
 		{
@@ -322,11 +342,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 23
 		},
 		{
@@ -335,11 +356,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏎️🪩",
+			"emoji": "🏎️",
 			"idx": 24
 		},
 		{
@@ -351,11 +373,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🪩",
+			"emoji": "🧱",
 			"idx": 25
 		},
 		{
@@ -367,11 +390,12 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"arcadeworld"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🪩",
+			"emoji": "🎠",
 			"idx": 26
 		},
 		{
@@ -380,11 +404,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"turtletown"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🏕️",
+			"emoji": "🪙",
+			"text_color": "#008000",
 			"idx": 27
 		},
 		{
@@ -393,11 +419,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"snowvalley"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🏔️",
+			"emoji": "🪙",
+			"text_color": "#000080",
 			"idx": 28
 		},
 		{
@@ -406,11 +434,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🏝️",
+			"emoji": "🪙",
+			"text_color": "#808000",
 			"idx": 29
 		},
 		{
@@ -419,11 +449,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🏠",
+			"emoji": "🪙",
+			"text_color": "#800000",
 			"idx": 30
 		},
 		{
@@ -432,11 +464,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"thehive"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪙🏭",
+			"emoji": "🪙",
+			"text_color": "#800080",
 			"idx": 31
 		},
 		{
@@ -445,11 +479,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"turtletown"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🩹🏕️",
+			"emoji": "🩹",
+			"text_color": "#008000",
 			"idx": 32
 		},
 		{
@@ -458,11 +494,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"snowvalley"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🩹🏔️",
+			"emoji": "🩹",
+			"text_color": "#000080",
 			"idx": 33
 		},
 		{
@@ -471,11 +509,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🩹🏝️",
+			"emoji": "🩹",
+			"text_color": "#808000",
 			"idx": 34
 		},
 		{
@@ -484,11 +524,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🩹🏠",
+			"emoji": "🩹",
+			"text_color": "#800000",
 			"idx": 35
 		},
 		{
@@ -497,11 +539,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"thehive"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🩹🏭",
+			"emoji": "🩹",
+			"text_color": "#800080",
 			"idx": 36
 		},
 		{
@@ -515,7 +559,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐢",
 			"idx": 37
 		},
@@ -530,7 +573,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐧",
 			"idx": 38
 		},
@@ -545,7 +587,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🦌",
 			"idx": 39
 		},
@@ -560,7 +601,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🦊",
 			"idx": 40
 		},
@@ -575,7 +615,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🏺",
 			"idx": 41
 		},
@@ -590,7 +629,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐀",
 			"idx": 42
 		},
@@ -607,7 +645,6 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
 			"emoji": "🐝",
 			"idx": 43
 		},
@@ -624,8 +661,8 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "⚽🏘️",
+			"emoji": "⚽",
+			"text_color": "#008080",
 			"idx": 44
 		},
 		{
@@ -634,11 +671,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"turtletown"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐝🏕️",
+			"emoji": "🐝",
+			"text_color": "#008000",
 			"idx": 45
 		},
 		{
@@ -647,11 +686,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"snowvalley"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐝🏔️",
+			"emoji": "🐝",
+			"text_color": "#000080",
 			"idx": 46
 		},
 		{
@@ -660,11 +701,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐝🏝️",
+			"emoji": "🐝",
+			"text_color": "#808000",
 			"idx": 47
 		},
 		{
@@ -673,11 +716,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"thehive"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐝🏭",
+			"emoji": "🐝",
+			"text_color": "#800080",
 			"idx": 48
 		},
 		{
@@ -686,11 +731,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"bearvillage"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏘️",
+			"emoji": "🏘️",
+			"text_color": "#008080",
 			"idx": 49
 		},
 		{
@@ -699,11 +746,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"bearvillage"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏘️",
+			"emoji": "🏘️",
+			"text_color": "#008080",
 			"idx": 50
 		},
 		{
@@ -712,11 +761,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"bearvillage"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏘️",
+			"emoji": "🏘️",
+			"text_color": "#008080",
 			"idx": 51
 		},
 		{
@@ -725,11 +776,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"bearvillage"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐻🏘️",
+			"emoji": "🏘️",
+			"text_color": "#008080",
 			"idx": 52
 		},
 		{
@@ -738,11 +791,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"beemothepdesert"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐧🏝️",
+			"emoji": "🐧",
+			"text_color": "#808000",
 			"idx": 53
 		},
 		{
@@ -751,11 +806,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🏺🏠",
+			"emoji": "🏺",
+			"text_color": "#800000",
 			"idx": 54
 		},
 		{
@@ -764,11 +821,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"gianthouse"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐢🏠",
+			"emoji": "🐢",
+			"text_color": "#800000",
 			"idx": 55
 		},
 		{
@@ -777,11 +836,13 @@
 			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
-			"line_categories": [],
+			"line_categories": [
+				"thehive"
+			],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐛🏭",
+			"emoji": "🐛",
+			"text_color": "#800080",
 			"idx": 56
 		},
 		{
@@ -793,8 +854,7 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🐥📷",
+			"emoji": "🐥",
 			"idx": 57
 		},
 		{
@@ -806,8 +866,7 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "👻📷",
+			"emoji": "👻",
 			"idx": 58
 		},
 		{
@@ -819,8 +878,7 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🇲🇺📷",
+			"emoji": "🇲🇺",
 			"idx": 59
 		},
 		{
@@ -832,13 +890,20 @@
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"overlay_icon": true,
-			"emoji": "🪳📷",
+			"emoji": "🪳",
 			"idx": 60
 		}
 	],
 	"limits": {
 		"board": {},
-		"line": {}
+		"line": {
+			"turtletown": 40,
+			"snowvalley": 40,
+			"beemothepdesert": 40,
+			"gianthouse": 40,
+			"bearvillage": 40,
+			"thehive": 40,
+			"arcadeworld": 40
+		}
 	}
 }
