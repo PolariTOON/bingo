@@ -1,5 +1,5 @@
 {
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"game": "Super Bear Adventure",
 	"objectives": [
 		{
@@ -209,16 +209,6 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏗️"
-		},
-		{
-			"goal": "Complete the Daily Mission",
-			"range": [],
-			"individual_limit": 1,
-			"board_categories": [],
-			"line_categories": [],
-			"tooltip": "",
-			"icons": [],
-			"emoji": "🐰"
 		},
 		{
 			"goal": "Beat the Classic Race",
