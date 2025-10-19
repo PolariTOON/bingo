@@ -12,7 +12,6 @@
 				7,
 				8
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -21,8 +20,7 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏕️",
-			"text_color": "#008000",
-			"idx": 1
+			"text_color": "#008000"
 		},
 		{
 			"goal": "Save {{X}} Bears in SV",
@@ -34,7 +32,6 @@
 				7,
 				8
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -43,8 +40,7 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏔️",
-			"text_color": "#000080",
-			"idx": 2
+			"text_color": "#000080"
 		},
 		{
 			"goal": "Save {{X}} Bears in BD",
@@ -56,7 +52,6 @@
 				7,
 				8
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -65,8 +60,7 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏝️",
-			"text_color": "#808000",
-			"idx": 3
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Save {{X}} Bears in GH",
@@ -78,7 +72,6 @@
 				7,
 				8
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -87,13 +80,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏠",
-			"text_color": "#800000",
-			"idx": 4
+			"text_color": "#800000"
 		},
 		{
 			"goal": "Save Barry",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -101,13 +92,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 5
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Polaris",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -115,13 +104,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 6
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Sand",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -129,13 +116,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 7
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Viper",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -143,13 +128,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 8
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Stephane",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -157,13 +140,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 9
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Frosty",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -171,13 +152,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 10
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Zephyr",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -185,13 +164,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 11
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Save Toast",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -199,13 +176,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 12
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Defeat Baaren's Brother",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -213,49 +188,41 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻",
-			"idx": 13
+			"emoji": "🐻"
 		},
 		{
 			"goal": "Complete the Backrooms",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🚇",
-			"idx": 14
+			"emoji": "🚇"
 		},
 		{
 			"goal": "Complete the Climbing Challenge",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏗️",
-			"idx": 15
+			"emoji": "🏗️"
 		},
 		{
 			"goal": "Complete the Daily Mission",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐰",
-			"idx": 16
+			"emoji": "🐰"
 		},
 		{
 			"goal": "Beat the Classic Race",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -263,13 +230,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 17
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Looping Race",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -277,13 +242,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 18
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Desert Race",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -291,13 +254,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 19
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Tubes Race",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -305,13 +266,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 20
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Classic Race backwards",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -319,13 +278,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 21
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Looping Race backwards",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -333,13 +290,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 22
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Desert Race backwards",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -347,13 +302,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 23
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Beat the Tubes Race backwards",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -361,8 +314,7 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️",
-			"idx": 24
+			"emoji": "🏎️"
 		},
 		{
 			"goal": "Collect {{X}} Coins on Platform Parkour",
@@ -370,7 +322,6 @@
 				25,
 				50
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -378,8 +329,7 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🧱",
-			"idx": 25
+			"emoji": "🧱"
 		},
 		{
 			"goal": "Collect {{X}} Coins on Spinning Rods",
@@ -387,7 +337,6 @@
 				25,
 				50
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -395,13 +344,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🎠",
-			"idx": 26
+			"emoji": "🎠"
 		},
 		{
 			"goal": "Collect all Coins in TT",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -410,13 +357,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🪙",
-			"text_color": "#008000",
-			"idx": 27
+			"text_color": "#008000"
 		},
 		{
 			"goal": "Collect all Coins in SV",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -425,13 +370,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🪙",
-			"text_color": "#000080",
-			"idx": 28
+			"text_color": "#000080"
 		},
 		{
 			"goal": "Collect all Coins in BD",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -440,13 +383,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🪙",
-			"text_color": "#808000",
-			"idx": 29
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Collect all Coins in GH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -455,13 +396,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🪙",
-			"text_color": "#800000",
-			"idx": 30
+			"text_color": "#800000"
 		},
 		{
 			"goal": "Collect all Coins in TH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -470,13 +409,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🪙",
-			"text_color": "#800080",
-			"idx": 31
+			"text_color": "#800080"
 		},
 		{
 			"goal": "Collect all Stickers in TT",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -485,13 +422,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🩹",
-			"text_color": "#008000",
-			"idx": 32
+			"text_color": "#008000"
 		},
 		{
 			"goal": "Collect all Stickers in SV",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -500,13 +435,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🩹",
-			"text_color": "#000080",
-			"idx": 33
+			"text_color": "#000080"
 		},
 		{
 			"goal": "Collect all Stickers in BD",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -515,13 +448,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🩹",
-			"text_color": "#808000",
-			"idx": 34
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Collect all Stickers in GH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -530,13 +461,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🩹",
-			"text_color": "#800000",
-			"idx": 35
+			"text_color": "#800000"
 		},
 		{
 			"goal": "Collect all Stickers in TH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -545,92 +474,79 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🩹",
-			"text_color": "#800080",
-			"idx": 36
+			"text_color": "#800080"
 		},
 		{
 			"goal": "Defeat {{X}} unique Turtles",
 			"range": [
 				5
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐢",
-			"idx": 37
+			"emoji": "🐢"
 		},
 		{
 			"goal": "Defeat {{X}} unique Penguins",
 			"range": [
 				5
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐧",
-			"idx": 38
+			"emoji": "🐧"
 		},
 		{
 			"goal": "Defeat {{X}} unique Reindeers",
 			"range": [
 				5
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🦌",
-			"idx": 39
+			"emoji": "🦌"
 		},
 		{
 			"goal": "Defeat {{X}} unique Fennecs",
 			"range": [
 				5
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🦊",
-			"idx": 40
+			"emoji": "🦊"
 		},
 		{
 			"goal": "Defeat {{X}} unique Sand Bears",
 			"range": [
 				10
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏺",
-			"idx": 41
+			"emoji": "🏺"
 		},
 		{
 			"goal": "Defeat {{X}} unique Rats",
 			"range": [
 				10
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐀",
-			"idx": 42
+			"emoji": "🐀"
 		},
 		{
 			"goal": "Kill {{X}} unique Bees",
@@ -639,14 +555,12 @@
 				10,
 				15
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐝",
-			"idx": 43
+			"emoji": "🐝"
 		},
 		{
 			"goal": "Put {{X}} big soccer balls in BV's lake",
@@ -655,20 +569,17 @@
 				10,
 				15
 			],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
 			"emoji": "⚽",
-			"text_color": "#008080",
-			"idx": 44
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Kill every Bee in TT (4)",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -677,13 +588,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐝",
-			"text_color": "#008000",
-			"idx": 45
+			"text_color": "#008000"
 		},
 		{
 			"goal": "Kill every Bee in SV (3)",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -692,13 +601,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐝",
-			"text_color": "#000080",
-			"idx": 46
+			"text_color": "#000080"
 		},
 		{
 			"goal": "Kill every Bee in BD (3)",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -707,13 +614,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐝",
-			"text_color": "#808000",
-			"idx": 47
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Kill every Bee in TH (13)",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -722,13 +627,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐝",
-			"text_color": "#800080",
-			"idx": 48
+			"text_color": "#800080"
 		},
 		{
 			"goal": "Talk to Madeline in BV",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -737,13 +640,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏘️",
-			"text_color": "#008080",
-			"idx": 49
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Talk to Jon in BV",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -752,13 +653,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏘️",
-			"text_color": "#008080",
-			"idx": 50
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Talk to Grumble in BV",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -767,13 +666,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏘️",
-			"text_color": "#008080",
-			"idx": 51
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Talk to Junior in BV",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -782,13 +679,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏘️",
-			"text_color": "#008080",
-			"idx": 52
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Defeat the Penguin in BD",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -797,13 +692,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐧",
-			"text_color": "#808000",
-			"idx": 53
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Defeat the Sand Bear in GH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -812,13 +705,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🏺",
-			"text_color": "#800000",
-			"idx": 54
+			"text_color": "#800000"
 		},
 		{
 			"goal": "Defeat every Ninja Turtle in GH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -827,13 +718,11 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐢",
-			"text_color": "#800000",
-			"idx": 55
+			"text_color": "#800000"
 		},
 		{
 			"goal": "Kill the Giant Caterpillar in TH",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [
@@ -842,56 +731,47 @@
 			"tooltip": "",
 			"icons": [],
 			"emoji": "🐛",
-			"text_color": "#800080",
-			"idx": 56
+			"text_color": "#800080"
 		},
 		{
 			"goal": "Take a photo with the Frozen Backpacker",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐥",
-			"idx": 57
+			"emoji": "🐥"
 		},
 		{
 			"goal": "Take a photo with the Ghost Bear",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "👻",
-			"idx": 58
+			"emoji": "👻"
 		},
 		{
 			"goal": "Take a photo with the Flag of Mauritius",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🇲🇺",
-			"idx": 59
+			"emoji": "🇲🇺"
 		},
 		{
 			"goal": "Take a photo with a Cookie Cockroach",
 			"range": [],
-			"difficulty": 1,
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🪳",
-			"idx": 60
+			"emoji": "🪳"
 		}
 	],
 	"limits": {
