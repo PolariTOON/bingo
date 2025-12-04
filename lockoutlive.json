@@ -1,5 +1,5 @@
 {
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"game": "Super Bear Adventure",
 	"objectives": [
 		{
@@ -92,7 +92,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#008000"
 		},
 		{
 			"goal": "Save Polaris",
@@ -104,7 +105,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#000080"
 		},
 		{
 			"goal": "Save Sand",
@@ -116,7 +118,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Save Viper",
@@ -128,10 +131,11 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#800000"
 		},
 		{
-			"goal": "Save Stephane",
+			"goal": "Save Stéphane",
 			"range": [],
 			"individual_limit": 1,
 			"board_categories": [],
@@ -140,7 +144,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#008000"
 		},
 		{
 			"goal": "Save Frosty",
@@ -152,7 +157,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#000080"
 		},
 		{
 			"goal": "Save Zephyr",
@@ -164,7 +170,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#808000"
 		},
 		{
 			"goal": "Save Toast",
@@ -176,7 +183,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#800000"
 		},
 		{
 			"goal": "Defeat Baaren's Brother",
@@ -188,7 +196,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🐻"
+			"emoji": "🐻",
+			"text_color": "#800080"
 		},
 		{
 			"goal": "Complete the Backrooms",
@@ -220,7 +229,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Looping Race",
@@ -232,7 +242,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Desert Race",
@@ -244,7 +255,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Tubes Race",
@@ -256,7 +268,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Classic Race backwards",
@@ -268,7 +281,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Looping Race backwards",
@@ -280,7 +294,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Desert Race backwards",
@@ -292,7 +307,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Beat the Tubes Race backwards",
@@ -304,7 +320,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏎️"
+			"emoji": "🏎️",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Collect {{X}} Coins on Platform Parkour",
@@ -319,7 +336,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🧱"
+			"emoji": "🧱",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Collect {{X}} Coins on Spinning Rods",
@@ -334,7 +352,8 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🎠"
+			"emoji": "🎠",
+			"text_color": "#008080"
 		},
 		{
 			"goal": "Collect all Coins in TT",
@@ -491,7 +510,7 @@
 			"emoji": "🐧"
 		},
 		{
-			"goal": "Defeat {{X}} unique Reindeers",
+			"goal": "Defeat {{X}} unique Mooses",
 			"range": [
 				5
 			],
@@ -555,20 +574,17 @@
 		{
 			"goal": "Put {{X}} big soccer balls in BV's lake",
 			"range": [
-				5,
-				10,
-				15
+				5
 			],
 			"individual_limit": 1,
 			"board_categories": [],
 			"line_categories": [],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "⚽",
-			"text_color": "#008080"
+			"emoji": "⚽"
 		},
 		{
-			"goal": "Kill every Bee in TT (4)",
+			"goal": "Kill every Bee in TT (3)",
 			"range": [],
 			"individual_limit": 1,
 			"board_categories": [],
@@ -629,8 +645,7 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏘️",
-			"text_color": "#008080"
+			"emoji": "🏘️"
 		},
 		{
 			"goal": "Talk to Jon in BV",
@@ -642,8 +657,7 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏘️",
-			"text_color": "#008080"
+			"emoji": "🏘️"
 		},
 		{
 			"goal": "Talk to Grumble in BV",
@@ -655,8 +669,7 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏘️",
-			"text_color": "#008080"
+			"emoji": "🏘️"
 		},
 		{
 			"goal": "Talk to Junior in BV",
@@ -668,8 +681,7 @@
 			],
 			"tooltip": "",
 			"icons": [],
-			"emoji": "🏘️",
-			"text_color": "#008080"
+			"emoji": "🏘️"
 		},
 		{
 			"goal": "Defeat the Penguin in BD",
@@ -767,13 +779,13 @@
 	"limits": {
 		"board": {},
 		"line": {
+			"bearvillage": 40,
+			"arcadeworld": 40,
 			"turtletown": 40,
 			"snowvalley": 40,
 			"beemothepdesert": 40,
 			"gianthouse": 40,
-			"bearvillage": 40,
-			"thehive": 40,
-			"arcadeworld": 40
+			"thehive": 40
 		}
 	}
 }
